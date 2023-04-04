@@ -1,4 +1,4 @@
-This HdWeka Program was download from: 
+This HdWeka Program was downloaded from: 
 https://github.com/FerCX98/nanopore
 It was made by Ferenc Szpisjak (fes9) as part of the final year Major Project at Aberystwyth Univeristy.
 
