@@ -1,7 +1,7 @@
 # nanopore
 uni major project de novo dns sequencing
 
-To read more detail, take a look at thesisDraft in the HdWeka_prog folder
+To read more detail, take a look at thesisDraft in the dev_files folder
 This HdWeka Program was downloaded from: 
 https://github.com/FerCX98/nanopore
 It was made by Ferenc Szpisjak (fes9) as part of the final year Major Project at Aberystwyth Univeristy.
